@@ -1,6 +1,6 @@
 # hse_hw2_chip
 
-[Ссылка на колаб]()
+[Ссылка на колаб](https://colab.research.google.com/drive/1Fdh51g5JYCa6pUUOKsSaNGltHarJ-ip3?usp=sharing)
 
 Параметры, выбранные на дз:
 
